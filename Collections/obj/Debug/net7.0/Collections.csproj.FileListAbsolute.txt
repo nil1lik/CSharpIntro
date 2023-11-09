@@ -1,0 +1,14 @@
+/Users/nilapril/Projects/Intro/Collections/bin/Debug/net7.0/Collections
+/Users/nilapril/Projects/Intro/Collections/bin/Debug/net7.0/Collections.deps.json
+/Users/nilapril/Projects/Intro/Collections/bin/Debug/net7.0/Collections.runtimeconfig.json
+/Users/nilapril/Projects/Intro/Collections/bin/Debug/net7.0/Collections.dll
+/Users/nilapril/Projects/Intro/Collections/bin/Debug/net7.0/Collections.pdb
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/Collections.AssemblyInfoInputs.cache
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/Collections.AssemblyInfo.cs
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/Collections.csproj.CoreCompileInputs.cache
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/Collections.dll
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/refint/Collections.dll
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/Collections.pdb
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/Collections.genruntimeconfig.cache
+/Users/nilapril/Projects/Intro/Collections/obj/Debug/net7.0/ref/Collections.dll

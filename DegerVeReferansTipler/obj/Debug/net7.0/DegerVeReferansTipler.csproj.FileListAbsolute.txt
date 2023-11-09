@@ -1,0 +1,14 @@
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.deps.json
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.runtimeconfig.json
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.dll
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/bin/Debug/net7.0/DegerVeReferansTipler.pdb
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.AssemblyInfoInputs.cache
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.AssemblyInfo.cs
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.dll
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/refint/DegerVeReferansTipler.dll
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.pdb
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/DegerVeReferansTipler.genruntimeconfig.cache
+/Users/nilapril/Projects/Intro/DegerVeReferansTipler/obj/Debug/net7.0/ref/DegerVeReferansTipler.dll

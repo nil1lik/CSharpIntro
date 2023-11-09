@@ -1,0 +1,14 @@
+/Users/nilapril/Projects/Intro/Methods/bin/Debug/net7.0/Methods
+/Users/nilapril/Projects/Intro/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/nilapril/Projects/Intro/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/nilapril/Projects/Intro/Methods/bin/Debug/net7.0/Methods.dll
+/Users/nilapril/Projects/Intro/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/Methods.dll
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/nilapril/Projects/Intro/Methods/obj/Debug/net7.0/ref/Methods.dll

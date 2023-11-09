@@ -1,0 +1,14 @@
+/Users/nilapril/Projects/Intro/GenericsIntro/bin/Debug/net7.0/GenericsIntro
+/Users/nilapril/Projects/Intro/GenericsIntro/bin/Debug/net7.0/GenericsIntro.deps.json
+/Users/nilapril/Projects/Intro/GenericsIntro/bin/Debug/net7.0/GenericsIntro.runtimeconfig.json
+/Users/nilapril/Projects/Intro/GenericsIntro/bin/Debug/net7.0/GenericsIntro.dll
+/Users/nilapril/Projects/Intro/GenericsIntro/bin/Debug/net7.0/GenericsIntro.pdb
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfoInputs.cache
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/GenericsIntro.AssemblyInfo.cs
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/GenericsIntro.csproj.CoreCompileInputs.cache
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/GenericsIntro.dll
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/refint/GenericsIntro.dll
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/GenericsIntro.pdb
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/GenericsIntro.genruntimeconfig.cache
+/Users/nilapril/Projects/Intro/GenericsIntro/obj/Debug/net7.0/ref/GenericsIntro.dll

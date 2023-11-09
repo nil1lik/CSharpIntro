@@ -1,0 +1,14 @@
+/Users/nilapril/Projects/Intro/Matematik/bin/Debug/net7.0/Matematik
+/Users/nilapril/Projects/Intro/Matematik/bin/Debug/net7.0/Matematik.deps.json
+/Users/nilapril/Projects/Intro/Matematik/bin/Debug/net7.0/Matematik.runtimeconfig.json
+/Users/nilapril/Projects/Intro/Matematik/bin/Debug/net7.0/Matematik.dll
+/Users/nilapril/Projects/Intro/Matematik/bin/Debug/net7.0/Matematik.pdb
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/Matematik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/Matematik.AssemblyInfoInputs.cache
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/Matematik.AssemblyInfo.cs
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/Matematik.csproj.CoreCompileInputs.cache
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/Matematik.dll
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/refint/Matematik.dll
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/Matematik.pdb
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/Matematik.genruntimeconfig.cache
+/Users/nilapril/Projects/Intro/Matematik/obj/Debug/net7.0/ref/Matematik.dll

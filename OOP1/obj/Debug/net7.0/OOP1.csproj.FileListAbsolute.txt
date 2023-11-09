@@ -1,0 +1,14 @@
+/Users/nilapril/Projects/Intro/OOP1/bin/Debug/net7.0/OOP1
+/Users/nilapril/Projects/Intro/OOP1/bin/Debug/net7.0/OOP1.deps.json
+/Users/nilapril/Projects/Intro/OOP1/bin/Debug/net7.0/OOP1.runtimeconfig.json
+/Users/nilapril/Projects/Intro/OOP1/bin/Debug/net7.0/OOP1.dll
+/Users/nilapril/Projects/Intro/OOP1/bin/Debug/net7.0/OOP1.pdb
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfoInputs.cache
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfo.cs
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/OOP1.csproj.CoreCompileInputs.cache
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/OOP1.dll
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/refint/OOP1.dll
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/OOP1.pdb
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/OOP1.genruntimeconfig.cache
+/Users/nilapril/Projects/Intro/OOP1/obj/Debug/net7.0/ref/OOP1.dll
